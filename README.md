@@ -6,5 +6,5 @@ GitHub stats:
 
 Top Languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farhoud-Rand&layout=compact)](https://github.com/Farhoud-Rand)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaidQT&layout=compact)](https://github.com/SaidQT)
 
