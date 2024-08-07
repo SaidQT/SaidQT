@@ -25,7 +25,7 @@ I'm an aspiring Full-Stack Developer with a strong foundation in backend technol
 - **GitHub:** [SaidQT](https://github.com/SaidQT)
 
 
-📊 GitHub stats:
+## 📊 GitHub stats:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SaidQT)](https://github.com/SaidQT)
 
