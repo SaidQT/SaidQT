@@ -31,7 +31,9 @@ I'm an aspiring Full-Stack Developer with a strong foundation in backend technol
   <tr>
     <td>
       <a href="https://github.com/SaidQT">
-        <img src="https://github-readme-stats.vercel.app/api?username=SaidQT" alt="Anurag's github stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=SaidQT"
+         alt="Anurag's github stats"
+         style="border: 2px solid #4CAF50; border-radius: 10px; width: 50%; height: auto; display: block; margin: 0 auto;">
       </a>
     </td>
     <td>
