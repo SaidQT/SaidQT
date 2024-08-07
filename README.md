@@ -27,9 +27,20 @@ I'm an aspiring Full-Stack Developer with a strong foundation in backend technol
 
 ## 📊 GitHub stats:
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SaidQT)](https://github.com/SaidQT)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaidQT&layout=compact&theme=radical)](https://github.com/SaidQT)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/SaidQT">
+        <img src="https://github-readme-stats.vercel.app/api?username=SaidQT" alt="Anurag's github stats">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/SaidQT">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaidQT&layout=compact&theme=radical" alt="Top Languages">
+      </a>
+    </td>
+  </tr>
+</table>
 
 Feel free to check out my projects and reach out if you want to discuss opportunities or collaborate!
 
