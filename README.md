@@ -35,6 +35,11 @@
   />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaidQT&show_icons=true&locale=en" alt="SaidQT" /></p>
+<p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=SaidQT&show_icons=true&locale=en&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=2bbc8a" 
+    alt="SaidQT" 
+  />
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SaidQT&" alt="SaidQT" /></p>
