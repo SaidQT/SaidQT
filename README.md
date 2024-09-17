@@ -30,7 +30,7 @@
 </p>
 
 <h3 align="left">🛠️ Technical Projects:</h3>
-
+<br><br><br>
 <ul>
   <li>
     <strong><a href="https://github.com/SaidQT/mern-proj" target="_blank">Quizizz Platform</a></strong> - A MERN-based quiz platform that allows users to create, take, and manage quizzes.
