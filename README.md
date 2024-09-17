@@ -13,7 +13,7 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
   <div>
     <ul style="list-style-type: none; padding: 0;">
-        <li>🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/></li>
+        <li>🌱 I’m currently learning **To be Extroverted** </li>
       <li>👯 I’m looking to collaborate on: <strong>Interesting open source projects</strong></li>
       <li>💬 Ask me about: <strong>Java, SpringBoot, Express, Python, Django, Mern, Javascript</strong></li>
       <li>📫 How to reach me: <strong>Drop me an email at saidqtaish@gmail.com</strong></li>
