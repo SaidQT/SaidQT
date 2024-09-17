@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Said</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+profile,+I+am+an+Aspiring+Full+Stack+Developer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+profile!+I%27m+an+Aspiring+Full+Stack+Developer">
   </a>
 </p>
 
