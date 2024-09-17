@@ -9,21 +9,16 @@
   </a>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SaidQT&label=Profile%20views&color=0e75b6&style=flat" alt="SaidQT" />
+<p style="display: flex; align-items: center;">
+  <img src="https://komarev.com/ghpvc/?username=SaidQT&label=Profile%20views&color=0e75b6&style=flat" alt="SaidQT" style="margin-right: 20px;" />
+  <span>
+    - 🌱 I’m currently learning: <strong>MERN stack</strong><br>
+    - 👯 I’m looking to collaborate on: <strong>Interesting open source projects</strong><br>
+    - 💬 Ask me about: <strong>Java, SpringBoot, Express, Python, Django, Mern, Javascript</strong><br>
+    - 📫 How to reach me: <strong>Drop me an email at saidqtaish@gmail.com</strong><br>
+    - ⚡ Fun fact: <strong>Debugging was coined after removing bugs from computer hardware.</strong>
+  </span>
 </p>
-
-
-
-- 🌱 I’m currently learning: **MERN stack**
-
-- 👯 I’m looking to collaborate on: **Interesting open source projects**
-
-- 💬 Ask me about: **Java, SpringBoot, Express, Python, Django, Mern, Javascript**
-
-- 📫 How to reach me: **Drop me an email at saidqtaish@gmail.com**
-
-- ⚡ Fun fact: **Debugging was coined after removing bugs from computer hardware.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
