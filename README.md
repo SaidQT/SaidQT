@@ -11,6 +11,7 @@
 
 
   <div>
+    <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
     <ul style="list-style-type: none; padding: 0;">
       <li>🌱 I’m currently learning: <strong>MERN stack</strong></li>
       <li>👯 I’m looking to collaborate on: <strong>Interesting open source projects</strong></li>
