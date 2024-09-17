@@ -15,17 +15,24 @@
 </p>
 
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <!-- Image Section -->
+  <div style="margin-right: 20px;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF" style="height: 300px; width: 400px;">
+  </div>
+  
+  <!-- Information Section -->
+  <div>
+    <ul style="list-style-type: none; padding: 0;">
+      <li>🌱 I’m currently learning: <strong>MERN stack</strong></li>
+      <li>👯 I’m looking to collaborate on: <strong>Interesting open source projects</strong></li>
+      <li>💬 Ask me about: <strong>Java, SpringBoot, Express, Python, Django, Mern, Javascript</strong></li>
+      <li>📫 How to reach me: <strong>Drop me an email at saidqtaish@gmail.com</strong></li>
+      <li>⚡ Fun fact: <strong>Debugging was coined after removing bugs from computer hardware.</strong></li>
+    </ul>
+  </div>
+</div>
 
-
-- 🌱 I’m currently learning: **MERN stack**
-
-- 👯 I’m looking to collaborate on: **Interesting open source projects**
-
-- 💬 Ask me about: **Java, SpringBoot, Express, Python, Django, Mern, Javascript**
-
-- 📫 How to reach me: **Drop me an email at saidqtaish@gmail.com**
-
-- ⚡ Fun fact: **Debugging was coined after removing bugs from computer hardware.**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
