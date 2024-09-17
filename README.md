@@ -28,9 +28,8 @@
 <a href="https://www.linkedin.com/in/said-abu-qtaish-b9804918a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwal-bhatt-b256271a3" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/SaidQT/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SaidQT" height="30" width="40" /></a>
 </p>
-
+<br><br><br><br><br>
 <h3 align="left">🛠️ Technical Projects:</h3>
-<br><br><br>
 <ul>
   <li>
     <strong><a href="https://github.com/SaidQT/mern-proj" target="_blank">Quizizz Platform</a></strong> - A MERN-based quiz platform that allows users to create, take, and manage quizzes.
