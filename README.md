@@ -3,9 +3,6 @@
 
 <!-- Greeting and profile information -->
 <h1 align="center">Hi 👋, I'm Said <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SaidQT&label=Profile%20views&color=0e75b6&style=flat" alt="SaidQT" />
-</p>
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
