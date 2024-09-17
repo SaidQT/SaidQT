@@ -13,15 +13,18 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, and REST API  </p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- 💁‍♂️ Volunteer MOD at **Dev Community**.
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+
+- 👯 I’m looking to collaborate on: **Interesting open source projects**
+
+- 💬 Ask me about: **Java, SpringBoot, Express, Python, Django, Mern, Javascript**
+
+- 📫 How to reach me: **Drop me an email at saidqtaish@gmail.com**
+
+- ⚡ Fun fact: **Debugging was coined after removing bugs from computer hardware.**
 <!--End Intro-->
 
 <!--Profile Count Badge-->
