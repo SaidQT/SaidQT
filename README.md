@@ -1,9 +1,12 @@
 
-<a target="_blank" align="center">
-  <br><br>
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-</a>
+<!-- Container for the GIF image with proper alignment -->
+<div style="text-align: center; margin-bottom: 20px;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF" style="height: 300px; width: 400px;">
+</div>
+
+<!-- Greeting and profile information -->
 <h1 align="center">Hi 👋, I'm Said</h1>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+profile!;++;I%27m+an+Aspiring+Full+Stack+Developer">
@@ -13,6 +16,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=SaidQT&label=Profile%20views&color=0e75b6&style=flat" alt="SaidQT" />
 </p>
+
 
 
 
