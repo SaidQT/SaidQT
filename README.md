@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on: **Interesting open source projects**
 
-- 💬 Ask me about: **Java, SpringBoot, Express, Python, Django**
+- 💬 Ask me about: **Java, SpringBoot, Express, Python, Django, Mern, Javascript**
 
 - 📫 How to reach me: **Drop me an email at saidqtaish@gmail.com**
 
