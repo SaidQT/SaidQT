@@ -10,9 +10,6 @@
 *Digital Craftsman (Developer / Programmer)*
 <br /> 
 
-*Digital Craftsman (Developer / Programmer)*
-
-<br /> 
 
 <!--Start Intro-->               
 <p align="left">I am a Full Stack Developer and Backend engineering Enthusiast with a huge love for Python, React.js, Node.js, Django, and REST API  </p>
