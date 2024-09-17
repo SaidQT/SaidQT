@@ -37,7 +37,7 @@
 <!--Languages and Tools Section-->       
 ### 🛠 &nbsp; Tech Stack
 
-<p align="center">
+<p>
 <img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,mongo,git,vscode,aws,postman&perline=10"  />
 </p>
 
