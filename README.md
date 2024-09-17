@@ -76,10 +76,16 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/SaidQT/mern-proj">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=SaidQT&repo=mern-proj&theme=nightowl&show_owner=true" alt="Quizziz Project" />
+        </a>
+         <a href="https://github.com/SaidQT/SOAR">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=SaidQT&repo=SOAR&theme=nightowl&show_owner=true" alt="SOAR Project" />
+        </a>
+          <a href="https://github.com/SaidQT/YELP">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=SaidQT&repo=YELP&theme=nightowl&show_owner=true" alt="YELP Project" />
         </a>
       </p>
     </td>
