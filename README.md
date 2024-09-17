@@ -60,16 +60,16 @@
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kiran1689&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        <a href="https://github.com/SaidQT">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=SaidQT&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://streak-stats.demolab.com?user=Kiran1689&theme=nightowl" alt="Streak Stats" />
+        <a href="https://github.com/SaidQT">
+          <img align="center" src="https://streak-stats.demolab.com?user=SaidQT&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -78,7 +78,7 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/SaidQT/](https://github.com/SaidQT/mern-proj">
+        <a href="https://github.com/SaidQT/mern-proj">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=SaidQT&repo=mern-proj&theme=nightowl&show_owner=true" alt="Quizziz Project" />
         </a>
       </p>
