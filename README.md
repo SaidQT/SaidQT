@@ -5,11 +5,10 @@
 <h1 align="center">Hi 👋, I'm Said</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Hi+I'm+Said,+a+Self-Taught+Front-End+Developer,+Graduated+from+a+4-Month+Full+Stack+Development+Bootcamp,+Computer+Science+Student,+CTF+Newbie,+Active+Learner/Researcher,+Love+to+learn+new+things..<3">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+profile..&hearts;++;Hi+I'm+Said,+a+Self-Taught+Front-End+Developer,+Graduated+from+a+4-Month+Full+Stack+Development+Bootcamp,+Computer+Science+Student,+CTF+Newbie,+Active+Learner/Researcher,+Love+to+learn+new+things..<3">
   </a>
 </p>
 
-<br><br><br> 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=SaidQT&label=Profile%20views&color=0e75b6&style=flat" alt="SaidQT" />
 </p>
