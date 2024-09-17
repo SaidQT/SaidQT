@@ -2,12 +2,12 @@
 <!-- Container for the GIF image with proper alignment -->
 
 <!-- Greeting and profile information -->
-<h1 align="center">Hi 👋, I'm Said <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  I'm Said <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
+*Digital Craftsman (Developer / Programmer)*
+<br /> 
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
-
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
   <div>
     <ul style="list-style-type: none; padding: 0;">
         <li>🌱 I’m currently learning **To be Extroverted** </li>
