@@ -9,13 +9,7 @@
 </p>
 
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <!-- Image Section -->
-  <div style="margin-right: 20px;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF" style="height: 300px; width: 400px;">
-  </div>
-  
-  <!-- Information Section -->
+
   <div>
     <ul style="list-style-type: none; padding: 0;">
       <li>🌱 I’m currently learning: <strong>MERN stack</strong></li>
