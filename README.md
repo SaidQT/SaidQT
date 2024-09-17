@@ -6,7 +6,9 @@
 </div>
 
 <!--Header Name-->
-# ![Sunglasses GIF](https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430) *ɪ'ᴍ* **Said!**
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Said! 
+*Digital Craftsman (Developer / Programmer)*
+<br /> 
 
 *Digital Craftsman (Developer / Programmer)*
 
@@ -140,6 +142,6 @@
 
 ------
 
-Credit: [Kiran1689](https://github.com/SaidQT)
+Credit: [SaidQT](https://github.com/SaidQT)
 
 Last Edited on: 17/09/2024
