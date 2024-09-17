@@ -1,8 +1,5 @@
 
 <!-- Container for the GIF image with proper alignment -->
-<div style="text-align: center; margin-bottom: 20px;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF" style="height: 300px; width: 400px;">
-</div>
 
 <!-- Greeting and profile information -->
 <h1 align="center">Hi 👋, I'm Said</h1>
