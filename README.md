@@ -25,8 +25,7 @@
 <a href="https://leetcode.com/u/SaidQT/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SaidQT" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">🛠️ Technical Projects:</h3>
-<ul>
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools<ul>
   <li>
     <strong><a href="https://github.com/SaidQT/mern-proj" target="_blank">Quizizz Platform</a></strong> - A MERN-based quiz platform that allows users to create, take, and manage quizzes.
   </li>
